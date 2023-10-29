@@ -122,7 +122,7 @@ Script SQL:
 
 
 Script SQL:
-[SQL](Filmes%20e%20Categorias%20-%20Etapa%20%20SQL%202023-10-25.sql)
+[SQL](Filmes%20e%20Categorias%20-%20Etapa%202%20%20SQL%202023-10-25.sql)
 
 
 
