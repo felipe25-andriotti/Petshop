@@ -99,6 +99,32 @@ Script SQL:
 Script SQL:
 [SQL](Animais%20e%20Especies%20-%20Etapa%202%20%20SQL%202023-10-25.sql)
 
+## 2. Crie um banco de dados para registrar dados de Produtos e Marcas. Um produto deve ter nome, preço de custo, preço de venda, data de validade e marca. Uma marca deve ter, nome, site oficial e telefone.
+  Faça a modelagem relacional, DER.
+![PNG](2L.png)
+
+  Tabela:
+
+![PNG](2%20tabela.png)
+
+
+Script SQL:
+[SQL](Marcas%20e%20%20Produtos%20-%20Etapa%202%20%20SQL%202023-10-25.sql)
+
+## 3.  Crie um banco de dados para registrar dados de Filmes e Categorias. Um filme tem seu título, sinopse, estudio e categoria. Uma categoria deve ter nome e público alvo.
+
+  Faça a modelagem relacional, DER.
+![PNG](3L.png)
+
+  Tabela:
+
+![PNG](320tabela.png)
+
+
+Script SQL:
+[SQL](Filmes%20e%20Categorias%20-%20Etapa%202%20%20SQL%202023-10-25.sql)
+
+
 
 
 
