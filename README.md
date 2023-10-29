@@ -118,7 +118,7 @@ Script SQL:
 
   Tabela:
 
-![PNG](320tabela.png)
+![PNG](3%20tabela.png)
 
 
 Script SQL:
