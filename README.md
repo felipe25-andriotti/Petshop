@@ -109,7 +109,7 @@ Script SQL:
 
 
 Script SQL:
-[SQL](Marcas%20e%20%20Produtos%20-%20Etapa%202%20%20SQL%202023-10-25.sql)
+[SQL](Marcas%20e%20Produtos%20-%20Etapa%202%20%20SQL%202023-10-25.sql)
 
 ## 3.  Crie um banco de dados para registrar dados de Filmes e Categorias. Um filme tem seu título, sinopse, estudio e categoria. Uma categoria deve ter nome e público alvo.
 
