@@ -87,6 +87,17 @@ Script SQL:
 
 # Atividade individual - Tema; Base de Dados Animais - ETAPA 2
 
+## 1. Crie um banco de dados para armazenar dados de Animais e Espécies. Um animal tem seu nome, data_nasc e peso. Uma espécie tem um nome e uma descrição.
+  Faça a modelagem relacional, DER.
+![PNG](1L.png)
+
+Tabela:
+![PNG](1%20tabela.png)
+
+
+Script SQL:
+[SQL](Animais%20e%20Especies%20-%20Etapa%202%20%20SQL%202023-10-25.sql)
+
 
 
 
