@@ -91,7 +91,8 @@ Script SQL:
   Faça a modelagem relacional, DER.
 ![PNG](1L.png)
 
-Tabela:
+  Tabela:
+
 ![PNG](1%20tabela.png)
 
 
